@@ -1,0 +1,48 @@
+
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+            background-color: aquamarine;
+        
+        }
+
+        h1 {
+            margin-top: 0;
+            font-weight: 10px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: navy;
+
+        }
+
+        p {
+            font-size: 16px;
+            color: fuchsia;
+            font-weight: 1000;
+        }
+
+        #eight {  
+            color: aquamarine;
+            margin-top: 95px;
+            font-weight: 500;
+            font-size: 20px; 
+            text-align: center;
+}
+
+        #eight p {
+            color: fuchsia;
+            font-weight: 500;
+            font-size: 70px;
+            margin-top: 95px;
+
+        }
+
+        .answer {
+            background-color: navy;
+            border-radius: 50%;
+            width: 300px;
+            height: 300px;
+            text-align: center;
+            border: solid 80px fuchsia;
+            margin: auto;
+
+        }
