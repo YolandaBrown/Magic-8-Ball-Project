@@ -1,2 +1,3 @@
 # Magic-8-Ball-Project
-The classic game of the magic 8 ball with a cute twist.
+
+The magic 8 ball gives you guidance.  Type in a question and see what it says.  
